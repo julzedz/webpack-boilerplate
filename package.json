@@ -1,0 +1,23 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple yet powerful web-pack boilerplate, which I can later use as a starting point in my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julzedz/webpack-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julzedz/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/julzedz/webpack-boilerplate#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
+}
